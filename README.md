@@ -1,1 +1,1 @@
-# Sumo1kg-WRG
+# Sumo3kg-WRG
